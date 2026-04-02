@@ -1,0 +1,31 @@
+{
+  "autoLoginEnabled": false,
+  "autoLoginValidDays": 30,
+  "createdAt": "2026-04-02T09:10:28Z",
+  "displayName": "xxx",
+  "email": "",
+  "gitBranch": "gitp",
+  "gitCommitHash": "",
+  "keyInfo": {
+    "aesKeyEncrypted": "FNYZ4y4aSBEYViaOcMp6hmYEbPy2P0JzSqaMhH9svgyId7iAc/dQNbbmiUyLPS8RD9HfoLLU3quA3yRmgLI5dkUeuhDM50GSfEyfvAEjhmLDNQnNv+UJpm9LahXsNVDugC7lgCn6NRGDwmVYiXbZjTNanjCgAD2p9acUK4pyXfbZGZw5kDUaPeK9cMRFNKqD2DlLQ5cAYwVfttI/+ToQiHSdhiRozZZQAQdbbPsghlWvDrl2gJj5P6MG6e3bg9MxFDtmer9oAfXhdC3Fsq16Oo4j++owMeuMSAtzm2+FtH4iCn5EWOusiHWDHovObblxJrSHSp/bdT/ZoTiq+TyF/A==",
+    "algorithm": "PBKDF2-SHA256",
+    "authKeyHash": "i0fOlntLsEG2JPUxHO9yU/xEjgDXR8aJQbW44N0aZR0=",
+    "authSalt": "fZiz9FlMNuYf7GVJXC2Te4XJzZ5FmYbFS1PWJfeJEco=",
+    "createdAt": "2026-04-02T09:10:28Z",
+    "encryptKeyHash": "6fzfRQo1XRUjFxuu3kpnERouGOtpW40i72ERHePRG28=",
+    "encryptSalt": "I20EiIKK9OZWMdlEF7EYIYrqv8QX1S/LvG0dr4fzJzM=",
+    "iterations": 100000,
+    "lastModified": "2026-04-02T09:10:28Z",
+    "rsaPrivateKeyEncrypted": "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",
+    "rsaPublicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArac/P0W7rsPtXUJqNdtH\nrYrfBgrkgetL340kw+NnOWZPhvQpQE0BszyT+W9ZqAKHPQbjwIwT/OWJFqGZWz0W\nwTcBoq5/vFqSOo8XQi0hhhwLa6WveLYKEKmWbafcx9Fs6vsDmwnijTNE3Zw5vwfq\nVrmSbDL/B5Fag4Qgoq27pl/px7sjQ+OpIg6ngNtwJi9vsiuGyaETpXdrqfXunADL\nT86wQWw5eymoXcExWe/jusvs+ZgqfqQv9pmqmSf6yN/nKiqfo2H6OTn+UWRVptOL\npH02gwgq3VkNdz8oERufzYaECmFtpyMf0eTn6t8b0zPfQJDLicAv8iav7Dam16IZ\nWwIDAQAB\n-----END PUBLIC KEY-----\n",
+    "salt": "dxRq+JgeLnHrEF6Gc7oFdzG173Fssbqo+9nB275GXAY=",
+    "useAES": true,
+    "useRSA": true
+  },
+  "lastLoginAt": "1970-01-01T00:00:00Z",
+  "lastModifiedAt": "2026-04-02T09:10:28Z",
+  "loginCount": 0,
+  "maxFailedAttempts": 5,
+  "requireStrongPassword": true,
+  "username": "xxx"
+}
