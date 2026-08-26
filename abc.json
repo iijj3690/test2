@@ -1,0 +1,31 @@
+{
+  "autoLoginEnabled": false,
+  "autoLoginValidDays": 30,
+  "createdAt": "2026-08-26T11:54:05Z",
+  "displayName": "AN",
+  "email": "",
+  "gitBranch": "gitp",
+  "gitCommitHash": "",
+  "keyInfo": {
+    "aesKeyEncrypted": "",
+    "algorithm": "PBKDF2-SHA256",
+    "authKeyHash": "",
+    "authSalt": "",
+    "createdAt": "2026-08-26T11:54:05Z",
+    "encryptKeyHash": "",
+    "encryptSalt": "",
+    "iterations": 100000,
+    "lastModified": "2026-08-26T11:54:05Z",
+    "rsaPrivateKeyEncrypted": "",
+    "rsaPublicKey": "",
+    "salt": "",
+    "useAES": false,
+    "useRSA": false
+  },
+  "lastLoginAt": "1970-01-01T00:00:00Z",
+  "lastModifiedAt": "2026-08-26T11:54:05Z",
+  "loginCount": 0,
+  "maxFailedAttempts": 5,
+  "requireStrongPassword": true,
+  "username": "abc"
+}
